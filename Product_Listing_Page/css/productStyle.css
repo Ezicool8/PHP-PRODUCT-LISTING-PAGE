@@ -1,0 +1,21 @@
+html {
+  box-sizing: border-box;
+}
+
+button:hover {
+  color: var(--black);
+  background-color: var(--white);
+}
+
+p {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.delete-checkbox {
+  position: relative;
+  left: 45%;
+}
